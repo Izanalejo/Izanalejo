@@ -11,8 +11,7 @@ Soy **estudiante de Desarrollo de Aplicaciones Web (DAW)**
 
 ## ⌨️ Tecnologías que estoy aprendiendo
 - **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Node.js, Java  
-- **Bases de datos:** MySQL, MongoDB  
+- **Backend:** PHP, Java  
 - **Otros:** Git, GitHub 
 
 ---
