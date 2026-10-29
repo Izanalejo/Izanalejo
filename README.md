@@ -1,5 +1,5 @@
 
-# ¡Hola! Soy Izan 👋
+# ¡Hola! Soy Izan 👋🏻
 
 **Software Developer | Técnico Superior en Desarrollo de Aplicaciones Web**
 
